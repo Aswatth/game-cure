@@ -1,4 +1,5 @@
-#A Unity Game - Cure
+# A Unity Game - Cure 
+[Game link](https://play.google.com/store/apps/details?id=com.SAGamesInc.CURE)
 
 <img src="/Images/SS-1.png" width="400" height="200"/>
 
