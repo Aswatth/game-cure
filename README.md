@@ -3,12 +3,12 @@
 
 A game to demonstrate prevailing pandemic situation (does not represent real life scenarios)
 
-Objective:
+<b>Objective:</b>
   - Stay safe
   - Make the city virus free
   - Vaccinate people
 
-Gameplay:
+<b>Gameplay:</b>
   - Use left joystick to move around
   - Click on handwash icon to clean an area and vaccinate icon to vaccinate people
   - Rush to hospital to heal yourself if you are infected
@@ -18,8 +18,7 @@ Gameplay:
   - HUD incdicates the uninfected, infected and spread count on top left, minimap on top right and player's health and coins at the bottom.
   - Game ends when player runs out of health or by making the city virus free.
 
-Working:
-
+<b>Working:</b>
 <p>
   The city is represented as a grid and each cell will hold a value based on how long the virus is present in that particular cell hence increasing the spread rate to people who pass/ stay in this cell.
   
@@ -32,7 +31,6 @@ Working:
   While the player is not immune to spread, player's health can be regenerated if they are within the hospital bounds.
   
   <img src="/Images/SS-3.png" width="400" height="200"/>
-  Sample of infected player being healed
   
   If the player is infected, health continues to degenerate and is indicated in two ways. One at the bottom indicating player's current health. Seondly, through post processing, the screen starts to turn red based on players health.
   
